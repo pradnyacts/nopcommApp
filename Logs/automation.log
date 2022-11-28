@@ -1,0 +1,118 @@
+2022-11-25 14:01:38,427 - INFO - *******Test_001_Login*******
+2022-11-25 14:01:38,428 - INFO - *******verify Login test *******
+2022-11-25 14:01:38,439 - INFO - *******Verify homepage title*******
+2022-11-25 14:01:40,241 - INFO - *******home page passed*******
+2022-11-25 14:01:48,109 - INFO - *******Login test pass *******
+2022-11-25 14:13:55,974 - INFO - *******Test_002_DDT_Login *******
+2022-11-25 14:13:55,974 - INFO - *******verify Login test *******
+2022-11-25 14:14:08,875 - INFO - *******Passed *******
+2022-11-25 14:14:14,873 - INFO - *******Passed *******
+2022-11-25 14:16:15,775 - INFO - *******Test_002_DDT_Login *******
+2022-11-25 14:16:15,776 - INFO - *******verify Login test *******
+2022-11-25 14:16:28,805 - INFO - *******Passed *******
+2022-11-25 14:16:34,800 - INFO - *******Passed *******
+2022-11-25 14:18:35,989 - INFO - *******Test_002_DDT_Login *******
+2022-11-25 14:18:35,997 - INFO - *******verify Login test *******
+2022-11-25 14:18:54,520 - INFO - *******Passed *******
+2022-11-25 14:19:05,568 - INFO - *******Passed *******
+2022-11-25 14:20:53,371 - INFO - *******Test_002_DDT_Login *******
+2022-11-25 14:20:53,383 - INFO - *******verify Login test *******
+2022-11-25 14:21:11,442 - INFO - *******Passed *******
+2022-11-25 14:21:22,610 - INFO - *******Passed *******
+2022-11-25 14:28:03,234 - INFO - *******Test_002_DDT_Login *******
+2022-11-25 14:28:03,235 - INFO - *******verify Login test *******
+2022-11-25 14:28:22,219 - INFO - *******Passed *******
+2022-11-25 14:29:39,941 - INFO - *******Test_002_DDT_Login *******
+2022-11-25 14:29:39,942 - INFO - *******verify Login test *******
+2022-11-25 14:30:00,439 - INFO - *******Passed *******
+2022-11-25 14:31:43,260 - INFO - *******Test_002_DDT_Login *******
+2022-11-25 14:31:43,260 - INFO - *******verify Login test *******
+2022-11-25 14:32:03,428 - INFO - *******Passed *******
+2022-11-25 14:32:14,469 - INFO - *******Passed *******
+2022-11-25 14:32:24,870 - INFO - *******Passed *******
+2022-11-25 14:32:35,238 - INFO - *******Passed *******
+2022-11-25 14:32:35,248 - INFO - Loginddt test passed
+2022-11-25 14:32:35,399 - INFO - ********** End of Login DDT-Test completed******
+2022-11-26 10:23:11,274 - INFO - ************* Test_003_AddCustomer **********
+2022-11-26 10:23:23,798 - INFO - ************* Login succesful **********
+2022-11-26 10:23:23,799 - INFO - ******* Starting Add Customer Test **********
+2022-11-26 11:10:04,553 - INFO - ************* Test_003_AddCustomer **********
+2022-11-26 11:10:14,237 - INFO - ************* Login succesful **********
+2022-11-26 11:10:14,237 - INFO - ******* Starting Add Customer Test **********
+2022-11-26 11:16:38,413 - INFO - ************* Test_003_AddCustomer **********
+2022-11-26 11:16:47,759 - INFO - ************* Login succesful **********
+2022-11-26 11:16:47,760 - INFO - ******* Starting Add Customer Test **********
+2022-11-26 11:17:25,961 - INFO - ************* Test_003_AddCustomer **********
+2022-11-26 11:17:36,566 - INFO - ************* Login succesful **********
+2022-11-26 11:17:36,566 - INFO - ******* Starting Add Customer Test **********
+2022-11-26 11:17:40,230 - INFO - ************* Providing customer info **********
+2022-11-26 11:17:53,148 - INFO - ************* Saving customer info **********
+2022-11-26 11:17:53,149 - INFO - ********* Add customer validation started *****************
+2022-11-26 11:19:49,796 - INFO - ************* Test_003_AddCustomer **********
+2022-11-26 11:19:57,910 - INFO - ************* Login succesful **********
+2022-11-26 11:19:57,910 - INFO - ******* Starting Add Customer Test **********
+2022-11-26 11:20:03,556 - INFO - ************* Providing customer info **********
+2022-11-26 11:20:16,449 - INFO - ************* Saving customer info **********
+2022-11-26 11:20:16,450 - INFO - ********* Add customer validation started *****************
+2022-11-26 11:20:17,381 - INFO - ********* Add customer Test Passed *********
+2022-11-26 11:20:17,576 - INFO - ******* Ending Add customer test **********
+2022-11-26 15:23:11,948 - INFO - ************* SearchCustomerByEmail_004 **********
+2022-11-26 15:23:19,633 - INFO - ************* Login succesful **********
+2022-11-26 15:23:19,634 - INFO - ******* Starting Search Customer By Email **********
+2022-11-26 15:23:23,926 - INFO - ************* searching customer by emailID **********
+2022-11-26 15:23:29,690 - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2022-11-26 15:29:18,685 - INFO - ************* SearchCustomerByName_005**********
+2022-11-26 15:29:29,025 - INFO - ************* Login succesful **********
+2022-11-26 15:29:29,025 - INFO - ******* Starting Search Customer By Name **********
+2022-11-26 15:29:31,145 - INFO - ************* searching customer by name **********
+2022-11-26 15:29:36,774 - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2022-11-28 08:58:30,742 - INFO - ************* Test_003_AddCustomer **********
+2022-11-28 08:58:30,742 - INFO - ************* Test_003_AddCustomer **********
+2022-11-28 08:58:30,742 - INFO - ************* Test_003_AddCustomer **********
+2022-11-28 08:58:30,742 - INFO - ************* Test_003_AddCustomer **********
+2022-11-28 08:58:30,742 - INFO - ************* Test_003_AddCustomer **********
+2022-11-28 08:58:38,732 - INFO - ************* Login succesful **********
+2022-11-28 08:58:38,732 - INFO - ************* Login succesful **********
+2022-11-28 08:58:38,732 - INFO - ************* Login succesful **********
+2022-11-28 08:58:38,732 - INFO - ************* Login succesful **********
+2022-11-28 08:58:38,732 - INFO - ************* Login succesful **********
+2022-11-28 08:58:38,733 - INFO - ******* Starting Add Customer Test **********
+2022-11-28 08:58:38,733 - INFO - ******* Starting Add Customer Test **********
+2022-11-28 08:58:38,733 - INFO - ******* Starting Add Customer Test **********
+2022-11-28 08:58:38,733 - INFO - ******* Starting Add Customer Test **********
+2022-11-28 08:58:38,733 - INFO - ******* Starting Add Customer Test **********
+2022-11-28 08:58:46,515 - INFO - ************* Providing customer info **********
+2022-11-28 08:58:46,515 - INFO - ************* Providing customer info **********
+2022-11-28 08:58:46,515 - INFO - ************* Providing customer info **********
+2022-11-28 08:58:46,515 - INFO - ************* Providing customer info **********
+2022-11-28 08:58:46,515 - INFO - ************* Providing customer info **********
+2022-11-28 08:58:59,504 - INFO - ************* Saving customer info **********
+2022-11-28 08:58:59,504 - INFO - ************* Saving customer info **********
+2022-11-28 08:58:59,504 - INFO - ************* Saving customer info **********
+2022-11-28 08:58:59,504 - INFO - ************* Saving customer info **********
+2022-11-28 08:58:59,504 - INFO - ************* Saving customer info **********
+2022-11-28 08:58:59,504 - INFO - ********* Add customer validation started *****************
+2022-11-28 08:58:59,504 - INFO - ********* Add customer validation started *****************
+2022-11-28 08:58:59,504 - INFO - ********* Add customer validation started *****************
+2022-11-28 08:58:59,504 - INFO - ********* Add customer validation started *****************
+2022-11-28 08:58:59,504 - INFO - ********* Add customer validation started *****************
+2022-11-28 08:59:00,265 - INFO - ********* Add customer Test Passed *********
+2022-11-28 08:59:00,265 - INFO - ********* Add customer Test Passed *********
+2022-11-28 08:59:00,265 - INFO - ********* Add customer Test Passed *********
+2022-11-28 08:59:00,265 - INFO - ********* Add customer Test Passed *********
+2022-11-28 08:59:00,265 - INFO - ********* Add customer Test Passed *********
+2022-11-28 08:59:00,360 - INFO - ******* Ending Add customer test **********
+2022-11-28 08:59:00,360 - INFO - ******* Ending Add customer test **********
+2022-11-28 08:59:00,360 - INFO - ******* Ending Add customer test **********
+2022-11-28 08:59:00,360 - INFO - ******* Ending Add customer test **********
+2022-11-28 08:59:00,360 - INFO - ******* Ending Add customer test **********
+2022-11-28 08:59:05,197 - INFO - *******verify Login test *******
+2022-11-28 08:59:05,197 - INFO - *******verify Login test *******
+2022-11-28 08:59:05,197 - INFO - *******verify Login test *******
+2022-11-28 08:59:05,197 - INFO - *******verify Login test *******
+2022-11-28 08:59:05,197 - INFO - *******verify Login test *******
+2022-11-28 08:59:14,596 - INFO - *******Login test pass *******
+2022-11-28 08:59:14,596 - INFO - *******Login test pass *******
+2022-11-28 08:59:14,596 - INFO - *******Login test pass *******
+2022-11-28 08:59:14,596 - INFO - *******Login test pass *******
+2022-11-28 08:59:14,596 - INFO - *******Login test pass *******
